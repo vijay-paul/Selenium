@@ -1,0 +1,4 @@
+resources\base.class
+pageObjects\RegisterPage.class
+pageObjects\HomePage.class
+Selenium201\App.class

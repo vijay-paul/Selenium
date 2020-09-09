@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium201.AppTest" duration-ms="11" started-at="2020-02-11T21:33:34 CST" finished-at="2020-02-11T21:33:34 CST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11" started-at="2020-02-11T21:33:34 CST" finished-at="2020-02-11T21:33:34 CST">
+    </test> <!-- Command line test -->
+  </suite> <!-- Selenium201.AppTest -->
+</testng-results>
